@@ -2,7 +2,7 @@
 #copy bee-1 key
 
 docker-compose down
-sleep 20
+sleep 60
 
 
 rm -r /var/lib/docker/volumes/beequeen_bee-1/_data
